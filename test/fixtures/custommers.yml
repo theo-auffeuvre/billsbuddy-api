@@ -1,0 +1,27 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nname: MyString
+  email: MyString
+  phone: MyString
+  siret: MyString
+  address: MyString
+  additional_address: MyString
+  zipcode: MyString
+  city: MyString
+  country: MyString
+  intracom_vat_number: MyString
+  company: one
+
+two:
+  nname: MyString
+  email: MyString
+  phone: MyString
+  siret: MyString
+  address: MyString
+  additional_address: MyString
+  zipcode: MyString
+  city: MyString
+  country: MyString
+  intracom_vat_number: MyString
+  company: two

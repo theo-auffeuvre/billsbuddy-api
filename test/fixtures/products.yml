@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  type: 
+  designation: MyString
+  qty: MyString
+  unit: MyString
+  price: MyString
+  vat_pourcentage: MyString
+
+two:
+  type: 
+  designation: MyString
+  qty: MyString
+  unit: MyString
+  price: MyString
+  vat_pourcentage: MyString

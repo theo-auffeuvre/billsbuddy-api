@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  issue_date: 2023-04-24
+  payment_due: MyString
+  customer: one
+  delivery_address: one
+  product: one
+
+two:
+  title: MyString
+  issue_date: 2023-04-24
+  payment_due: MyString
+  customer: two
+  delivery_address: two
+  product: two
